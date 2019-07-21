@@ -16,7 +16,7 @@
 ![](https://github.com/ximouzhao/nctools/blob/master/image/2.png)
 
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/3.png)
+![](https://github.com/ximouzhao/nctools/blob/master/image/3.jpg)
 
 补丁已经成功导入：
 
