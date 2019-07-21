@@ -13,7 +13,7 @@
 插件步骤：选择目录路径，finish
 
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/2.png)
+![](https://github.com/ximouzhao/nctools/blob/master/image/2.jpg)
 
 
 ![](https://github.com/ximouzhao/nctools/blob/master/image/3.jpg)
