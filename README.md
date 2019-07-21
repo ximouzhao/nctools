@@ -62,5 +62,4 @@ Next
 
 一路确认，重启eclipse
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/10.png)
-![](https://github.com/ximouzhao/nctools/blob/master/image/11.png)
+大功告成
