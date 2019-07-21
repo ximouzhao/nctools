@@ -28,15 +28,15 @@
 
 配置好数据源
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/5.png)
+![](https://github.com/ximouzhao/nctools/blob/master/image/5.jpg)
 
 点击按钮。
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/6.png)
+![](https://github.com/ximouzhao/nctools/blob/master/image/6.jpg)
 
 连接成功。
 
-![](https://github.com/ximouzhao/nctools/blob/master/image/7.png)
+![](https://github.com/ximouzhao/nctools/blob/master/image/7.jpg)
 
 总结：该插件不仅仅可以减少重复劳动，还可以让开发减少工作中差错， 比如，如果开发都养成每次把补丁导入工程的习惯，就不会出现新出补丁覆盖原有逻辑情况，因为都是基于已有补丁基础上做的修改， 在现在项目上越来越多的专项需求的情况下，该插件一定能显示出它的威力。 而对于数据库一键连接功能可以消除人为疏忽开发环境和工具软件连接数据库不一致的情况，少了很多不必要的检查和问题排查。 并且减少了需要连接数据库的时候还需要重新寻找一次密码的麻烦。
 
